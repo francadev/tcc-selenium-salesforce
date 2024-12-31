@@ -1,0 +1,108 @@
+{
+    "labels": {
+        "Tratamento": {
+            "value": "Mr.",
+            "options": [
+                "--Nenhum--",
+                "Mr.",
+                "Ms.",
+                "Mrs.",
+                "Dr.",
+                "Prof.",
+                "Mx."
+            ]
+        },
+        "Primeiro Nome": {
+            "value": "João"
+        },
+        "*Sobrenome": {
+            "value": "Silva"
+        },
+        "*Empresa": {
+            "value": "Empresa Exemplo"
+        },
+        "Origem do lead": {
+            "value": "Web",
+            "options": [
+                "--Nenhum--",
+                "Web",
+                "Phone Inquiry",
+                "Partner Referral",
+                "Purchased List",
+                "Other"
+            ]
+        },
+        "Setor": {
+            "value": "Agriculture",
+            "options": [
+                "--Nenhum--",
+                "Agriculture",
+                "Apparel",
+                "Banking",
+                "Biotechnology",
+                "Chemicals",
+                "Communications",
+                "Construction",
+                "Consulting",
+                "Education",
+                "Electronics",
+                "Energy",
+                "Engineering",
+                "Entertainment",
+                "Environmental",
+                "Finance",
+                "Food & Beverage",
+                "Government",
+                "Healthcare",
+                "Hospitality",
+                "Insurance",
+                "Machinery",
+                "Manufacturing",
+                "Media",
+                "Not For Profit",
+                "Recreation",
+                "Retail",
+                "Shipping",
+                "Technology",
+                "Telecommunications",
+                "Transportation",
+                "Utilities",
+                "Other"
+            ]
+        },
+        "Celular": {
+            "value": "11999999999"
+        },
+        "Email": {
+            "value": "joao.silva@email.com"
+        },
+        "Site da Web": {
+            "value": "https://www.exemplo.com"
+        },
+        "*Status do lead": {
+            "value": "Open - Not Contacted",
+            "options": [
+                "--Nenhum--",
+                "Open - Not Contacted",
+                "Working - Contacted",
+                "Closed - Converted",
+                "Closed - Not Converted"
+            ]
+        },
+        "Classificação": {
+            "value": "Hot",
+            "options": [
+                "--Nenhum--",
+                "Hot",
+                "Warm",
+                "Cold"
+            ]
+        },
+        "Receita anual": {
+            "value": "100000"
+        },
+        "Número de funcionários": {
+            "value": "50"
+        }
+    }
+}

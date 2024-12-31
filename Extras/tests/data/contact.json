@@ -1,0 +1,43 @@
+{
+    "labels": {
+      "Tratamento": {
+        "value": "Mr.",
+        "options": ["--Nenhum--", "Mr.", "Ms.", "Mrs.", "Dr.", "Prof.", "Mx."]
+      },
+      "Primeiro Nome": {
+        "value": "John"
+      },
+      "Sobrenome": {
+        "value": "Doe"
+      },
+      "Nome_da_conta": {
+        "value": "Doe Enterprises"
+      },
+      "Cargo": {
+        "value": "Gerente de Vendas"
+      },
+      "Origem do lead": {
+        "value": "Web",
+        "options": ["--Nenhum--", "Web", "Phone Inquiry", "Partner Referral", "Purchased List", "Other"]
+      },
+      "Telefone": {
+        "value": "+55 11 9876-5432"
+      },
+      "Celular": {
+        "value": "+55 11 91234-5678"
+      },
+      "Email": {
+        "value": "john.doe@example.com"
+      },
+      "Data_de_nascimento": {
+        "value": "1985-04-12"
+      },
+      "Departamento": {
+        "value": "Vendas"
+      },
+      "Endereco para correspondencia": {
+        "value": "Rua Exemplo, 123"
+        }
+    }
+  }
+  

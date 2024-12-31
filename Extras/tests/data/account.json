@@ -1,0 +1,88 @@
+{
+    "labels": {
+        "*Nome da conta": {
+            "value": "Empresa Exemplo"
+        },
+        "CNPJ": {
+            "value": "00000000000000"
+        },
+        "Conta pai": {
+            "value": "Conta Principal"
+        },
+        "Setor": {
+            "options": [
+                "--Nenhum--",
+                "Agriculture",
+                "Apparel",
+                "Banking",
+                "Biotechnology",
+                "Chemicals",
+                "Communications",
+                "Construction",
+                "Consulting",
+                "Education",
+                "Electronics",
+                "Energy",
+                "Engineering",
+                "Entertainment",
+                "Environmental",
+                "Finance",
+                "Food & Beverage",
+                "Government",
+                "Healthcare",
+                "Hospitality",
+                "Insurance",
+                "Machinery",
+                "Manufacturing",
+                "Media",
+                "Not For Profit",
+                "Recreation",
+                "Retail",
+                "Shipping",
+                "Technology",
+                "Telecommunications",
+                "Transportation",
+                "Utilities",
+                "Other"
+            ],
+            "value": "Agriculture"
+        },
+        "Receita anual": {
+            "value": "1000000"
+        },
+        "Tipo": {
+            "options": [
+                "--Nenhum--",
+                "Prospect",
+                "Customer - Direct",
+                "Customer - Channel",
+                "Channel Partner / Reseller",
+                "Installation Partner",
+                "Technology Partner",
+                "Other"
+            ],
+            "value": "Prospect"
+        },
+        "Classificação": {
+            "options": [
+                "--Nenhum--",
+                "Hot",
+                "Warm",
+                "Cold"
+            ],
+            "value": "Hot"
+        },
+        "Telefone": {
+            "value": "+55 11 1234-5678"
+        },
+        "Site da Web": {
+            "value": "www.empresaexemplo.com.br"
+        },
+        "Endereço para cobrança": {
+            "value": "Rua Exemplo Cobrança, 123, São Paulo - SP, Brasil, CEP: 01000-000"
+        },
+        "Endereço para entrega": {
+            "value": "Rua Exemplo Entrega, 123, São Paulo - SP, Brasil, CEP: 01000-000"
+        }
+    }
+}

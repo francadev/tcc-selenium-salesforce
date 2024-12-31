@@ -1,0 +1,88 @@
+{
+    "labels": {
+        "*Nome da conta": {
+            "value": "Outra Empresa Exemplo"
+        },
+        "CNPJ": {
+            "value": "11111111111111"
+        },
+        "Conta pai": {
+            "value": "Conta Principal 2"
+        },
+        "Setor": {
+            "options": [
+                "--Nenhum--",
+                "Agriculture",
+                "Apparel",
+                "Banking",
+                "Biotechnology",
+                "Chemicals",
+                "Communications",
+                "Construction",
+                "Consulting",
+                "Education",
+                "Electronics",
+                "Energy",
+                "Engineering",
+                "Entertainment",
+                "Environmental",
+                "Finance",
+                "Food & Beverage",
+                "Government",
+                "Healthcare",
+                "Hospitality",
+                "Insurance",
+                "Machinery",
+                "Manufacturing",
+                "Media",
+                "Not For Profit",
+                "Recreation",
+                "Retail",
+                "Shipping",
+                "Technology",
+                "Telecommunications",
+                "Transportation",
+                "Utilities",
+                "Other"
+            ],
+            "value": "Media"
+        },
+        "Receita anual": {
+            "value": "3000000"
+        },
+        "Tipo": {
+            "options": [
+                "--Nenhum--",
+                "Prospect",
+                "Customer - Direct",
+                "Customer - Channel",
+                "Channel Partner / Reseller",
+                "Installation Partner",
+                "Technology Partner",
+                "Other"
+            ],
+            "value": "Technology Partner"
+        },
+        "Classificação": {
+            "options": [
+                "--Nenhum--",
+                "Hot",
+                "Warm",
+                "Cold"
+            ],
+            "value": "Warm"
+        },
+        "Telefone": {
+            "value": "+55 19 3258-5334"
+        },
+        "Site da Web": {
+            "value": "www.outraempresaexemplo.com.br"
+        },
+        "Endereço para cobrança": {
+            "value": "Rua Outro Exemplo Cobrança, 321, Campinas - SP, Brasil, CEP: 13105-500"
+        },
+        "Endereço para entrega": {
+            "value": "Rua Outro Exemplo Entrega, 321, Campinas - SP, Brasil, CEP: 13044-040"
+        }
+    }
+}

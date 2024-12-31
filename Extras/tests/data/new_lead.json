@@ -1,0 +1,108 @@
+{
+  "labels": {
+    "Tratamento": {
+      "value": "Ms.",
+      "options": [
+        "--Nenhum--",
+        "Mr.",
+        "Ms.",
+        "Mrs.",
+        "Dr.",
+        "Prof.",
+        "Mx."
+      ]
+    },
+    "Primeiro Nome": {
+      "value": "Maria"
+    },
+    "*Sobrenome": {
+      "value": "Andrade"
+    },
+    "*Empresa": {
+      "value": "Empresa Exemplo 2"
+    },
+    "Origem do lead": {
+      "value": "Other",
+      "options": [
+        "--Nenhum--",
+        "Web",
+        "Phone Inquiry",
+        "Partner Referral",
+        "Purchased List",
+        "Other"
+      ]
+    },
+    "Setor": {
+      "value": "Biotechnology",
+      "options": [
+        "--Nenhum--",
+        "Agriculture",
+        "Apparel",
+        "Banking",
+        "Biotechnology",
+        "Chemicals",
+        "Communications",
+        "Construction",
+        "Consulting",
+        "Education",
+        "Electronics",
+        "Energy",
+        "Engineering",
+        "Entertainment",
+        "Environmental",
+        "Finance",
+        "Food & Beverage",
+        "Government",
+        "Healthcare",
+        "Hospitality",
+        "Insurance",
+        "Machinery",
+        "Manufacturing",
+        "Media",
+        "Not For Profit",
+        "Recreation",
+        "Retail",
+        "Shipping",
+        "Technology",
+        "Telecommunications",
+        "Transportation",
+        "Utilities",
+        "Other"
+      ]
+    },
+    "Celular": {
+      "value": "11888888888"
+    },
+    "Email": {
+      "value": "maria.a@email.com"
+    },
+    "Site da Web": {
+      "value": "https://www.maria.com"
+    },
+    "*Status do lead": {
+      "value": "Open - Not Contacted",
+      "options": [
+        "--Nenhum--",
+        "Open - Not Contacted",
+        "Working - Contacted",
+        "Closed - Converted",
+        "Closed - Not Converted"
+      ]
+    },
+    "Classificação": {
+      "value": "Warm",
+      "options": [
+        "--Nenhum--",
+        "Hot",
+        "Warm",
+        "Cold"
+      ]
+    },
+    "Receita anual": {
+      "value": "200000"
+    },
+    "Número de funcionários": {
+      "value": "100"
+    }
+  }
+}

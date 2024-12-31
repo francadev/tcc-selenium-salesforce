@@ -1,0 +1,55 @@
+{
+    "labels": {
+        "*Nome da oportunidade": {
+            "value": "Outra Oportunidade"
+        },
+        "Nome da conta": {
+            "value": "Conta Principal 2"
+        },
+        "*Tipo": {
+            "options": [
+                "--Nenhum--",
+                "Existing Customer - Upgrade",
+                "Existing Customer - Replacement",
+                "Existing Customer - Downgrade",
+                "New Customer"
+            ],
+            "value": "Existing Customer - Replacement"
+        },
+        "Origem do lead": {
+            "options": [
+                "--Nenhum--",
+                "Web",
+                "Phone Inquiry",
+                "Partner Referral",
+                "Purchased List",
+                "Other"
+            ],
+            "value": "Other"
+        },
+        "*Valor": {
+            "value": "4000"
+        },
+        "*Data de fechamento": {
+            "value": "18/11/2024"
+        },
+        "*Fase": {
+            "options": [
+                "--Nenhum--",
+                "Prospecting",
+                "Needs Analysis",
+                "Value Proposition",
+                "Id. Decision Makers",
+                "Closed Won",
+                "Closed Lost"
+            ],
+            "value": "Needs Analysis"
+        },
+        "Probabilidade (%)": {
+            "value": "40"
+        },
+        "Descrição": {
+            "value": "Outra descrição da oportunidade"
+        }
+    }
+}

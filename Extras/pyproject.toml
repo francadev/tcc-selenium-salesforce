@@ -1,0 +1,39 @@
+[tool.ruff]
+line-length = 79
+
+[tool.black]
+line-length = 79
+
+[tool.ruff.lint]
+preview = true
+select = ['I', 'F', 'E', 'W', 'PL', 'PT']
+
+[tool.ruff.format]
+preview = true
+quote-style = 'single'
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+addopts = ['-p', 'no:warnings']
+markers = [
+    "login: feature de login no Salesforce",
+    "successful: verifica se a ação foi realizada com sucesso",
+    "labels_create_account: verificação de labels no formulário de criação de conta",
+    "labels_create_opportunity: verificação de labels no formulário de criação de oportunidade",
+    "labels_create_lead: verificação de labels no formulário de criação de lead",
+    "create_account: verifica a criação de conta",
+    "create_opportunity: verifica a criação de oportunidade",
+    "create_lead: verifica a criação de lead",
+    "edit_account: verifica a edição de conta",
+    "edit_opportunity: verifica a edição de oportunidade",
+    "edit_lead: verifica a edição de lead",
+    "account: suite de testes de conta",
+    "opportunity: suite de testes de oportunidade",
+    "lead: suite de testes de lead",
+]
+
+[tool.taskipy.tasks]
+lint = 'ruff check . && ruff check . --diff'
+format = 'black . && ruff check . --fix'
+pre_test = 'task lint'
+test = 'pytest -s -vv --html=utils/reports/report.html'
